@@ -1,0 +1,53 @@
+h1{
+  font-family: Oak,sans-serif;
+  position:relative;
+}
+
+
+.postdate{
+  text-align: center;
+}
+
+.posttitle{
+  color:black;
+  font-size: 1.3em;
+  text-align: center;
+}
+.comment {
+  color:black;
+}
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+}
+
+.centerstage{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+.techfont {
+font-family: 'Russo One' ,sans-serif;
+font-size :1.5em;
+margin-bottom: 10px;
+}
+
+.bigbrand{
+  font-size:1.5em;
+}
+body {
+    background: #F3E5AB;
+}
+
+svg {
+    display: block;
+    width: 100%;
+}
